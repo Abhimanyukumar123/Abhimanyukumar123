@@ -73,7 +73,7 @@
   </tr>
 
   <tr>
-    <td>⭐ <a href="https://github.com/student-nirajkumar/POTD_Leetcode"><b>POTD_Leetcode</b></a></td>
+    <td>⭐ <a href="https://github.com/Abhimanyukumar123/https-github.com-Abhimanyukumar123-DSA_INTERVIEW_PREPARATION"><b>DSA_Leetcode</b></a></td>
     <td align="center">DSA / LeetCode Daily</td>
   </tr>
 
