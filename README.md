@@ -77,18 +77,6 @@
     <td align="center">DSA / LeetCode Daily</td>
   </tr>
 
-  <tr>
-    <td><a href="https://github.com/student-nirajkumar/Job_portal"><b>Job Application System</b></a></td>
-    <td align="center">MERN • Full Stack</td>
-  </tr>
 
-  <tr>
-    <td><a href="https://github.com/student-nirajkumar/Crypto-Trading-Platform"><b>Crypto Trading Platform</b></a></td>
-    <td align="center">Spring Boot • Java</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/student-nirajkumar/Food-Delivery-App"><b>Food Delivery Web App</b></a></td>
-    <td align="center">MERN</td>
-  </tr>
+  
 </table>
