@@ -48,8 +48,8 @@
 
 ---
 ## 💻 Emerging Technologies
-![Blockchain](https://img.shields.io/badge/Blockchain-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Generative AI](https://img.shields.io/badge/Generative_AI-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
 
 # 📊 GitHub Stats:
 
